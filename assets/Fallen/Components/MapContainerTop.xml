@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080" overflow="scroll" scroll="both" scrollBarFlags="384">
+  <displayList>
+    <image id="n1_kvga" name="n1" src="jlk118" fileName="Pictures/mountain/mountainBot.png" xy="2,-167" size="1921,1440" aspect="true"/>
+    <graph id="n2_kvga" name="posStart" xy="165,539" pivot="0.5,0.5" anchor="true" size="100,100" visible="false" type="rect"/>
+    <graph id="n3_kvga" name="posEnd" xy="1694,546" pivot="0.5,0.5" anchor="true" size="100,100" visible="false" type="rect"/>
+  </displayList>
+</component>

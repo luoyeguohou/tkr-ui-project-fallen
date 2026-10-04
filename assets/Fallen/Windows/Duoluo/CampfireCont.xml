@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <component id="n0_gbqg" name="btnRest" src="pcqv4" fileName="Components/Button.xml" xy="397,211" size="345,168">
+      <Button title="休息" titleFontSize="50"/>
+    </component>
+    <component id="n5_gbqg" name="btnBreakthrough" src="pcqv4" fileName="Components/Button.xml" xy="1170,205" size="345,168">
+      <Button title="突破" titleFontSize="50"/>
+    </component>
+    <component id="n6_gbqg" name="btnTrain" src="pcqv4" fileName="Components/Button.xml" xy="384,638" size="345,168">
+      <Button title="修行" titleFontSize="50"/>
+    </component>
+    <component id="n7_gbqg" name="btnMeditation" src="pcqv4" fileName="Components/Button.xml" xy="1163,644" size="345,168">
+      <Button title="冥想" titleFontSize="50"/>
+    </component>
+    <text id="n8_gbqg" name="n8" xy="401,313" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="回复所有HP。"/>
+    <text id="n9_gbqg" name="n9" xy="1168,308" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="增加一点HP上限。"/>
+    <text id="n10_gbqg" name="n10" xy="389,735" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="花费1点神力，升级一个技能。"/>
+    <text id="n11_gbqg" name="n11" xy="1160,740" size="337,59" fontSize="24" color="#efdfbb" align="center" vAlign="middle" autoSize="shrink" strokeColor="#151922" singleLine="true" text="花费3点神力，获得一个全新技能。"/>
+    <component id="n12_gbqg" name="btnCancel" src="pcqv4" fileName="Components/Button.xml" xy="1684,181" size="202,87">
+      <Button title="取消营火" titleFontSize="33"/>
+    </component>
+  </displayList>
+</component>

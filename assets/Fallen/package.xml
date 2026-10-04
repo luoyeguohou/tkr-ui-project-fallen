@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zq8mfx2p">
+  <resources>
+    <component id="82hnm" name="MapBottomWin.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="82hno" name="Map.xml" path="/Components/"/>
+    <component id="82hnp" name="MapContainer.xml" path="/Components/"/>
+    <component id="lh0xw" name="MapPoint.xml" path="/Components/"/>
+    <component id="gbqg13" name="CampfireWin.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="gbqg14" name="CampfireCont.xml" path="/Windows/Duoluo/"/>
+    <image id="gbqg15" name="campfire.png" path="/Pictures/mountain/"/>
+    <image id="jlk118" name="mountainBot.png" path="/Pictures/mountain/"/>
+    <image id="hprj22" name="normal_combat_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj23" name="campfire_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj24" name="elite_combat_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj25" name="event_icon.png" path="/Pictures/Icons/"/>
+    <image id="hprj26" name="campfire_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="hprj27" name="elite_combat_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="hprj28" name="event_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <image id="hprj29" name="normal_combat_icon_white_thick.png" path="/Pictures/Icons/"/>
+    <component id="hprj2a" name="MapIcon.xml" path="/Components/" exported="true"/>
+    <image id="hprj2b" name="mountainMid.png" path="/Pictures/mountain/"/>
+    <component id="hprj2c" name="MapMidWin.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="hprj2d" name="MapMidBg.xml" path="/Components/"/>
+    <component id="hprj2e" name="MapMid.xml" path="/Components/"/>
+    <component id="efe62i" name="SmallCampfireWin.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="efe62j" name="SmallCampfireCont.xml" path="/Windows/Duoluo/"/>
+    <image id="ruu72y" name="mountainTop.png" path="/Pictures/mountain/story/"/>
+    <image id="ruu72z" name="mountainBot-1.png" path="/Pictures/mountain/story/"/>
+    <image id="ruu733" name="mountainBot-2.png" path="/Pictures/mountain/story/"/>
+    <image id="ruu734" name="mountainMid.png" path="/Pictures/mountain/story/"/>
+    <component id="v4di35" name="MonutainMidAni.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="d3as36" name="MonutainBotAni.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="d3as37" name="MonutainTopAni.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="pcqv4" name="Button.xml" path="/Components/"/>
+    <image id="artcamp" name="campfire.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artmaplow" name="map_lower.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artmapup" name="map_upper.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtnup" name="button_normal.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtnover" name="button_hover.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtndown" name="button_pressed.png" path="/Pictures/Art/" exported="true"/>
+    <image id="artbtnoff" name="button_disabled.png" path="/Pictures/Art/" exported="true"/>
+    <component id="h8bhtnoves" name="Line.xml" path="/Components/" exported="true"/>
+    <component id="kvgatnovet" name="MapTopWin.xml" path="/Windows/Duoluo/" exported="true"/>
+    <component id="kvgatnoveu" name="MapContainerTop.xml" path="/Components/"/>
+  </resources>
+  <publish name="" path="C:\projects\ThreeKingdomRouge\ThreeKingdomRouge.ModEditor\ModEditor\Assets\StreamingAssets\Mods\fallen\ui" packageCount="2"/>
+</packageDescription>
